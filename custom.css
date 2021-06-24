@@ -3,4 +3,7 @@ body {
 }
 .container {
   background: url('./public/build/images/bg-intro-desktop.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  
 }
